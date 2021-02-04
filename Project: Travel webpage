@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            .spec
+            {
+                background: orange;
+                color: grey;
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Kazakhstan.</h1>
+        <h2>The main places</h2>
+        <p>I think the best places for travelling are plsed in south part of country: Turkestan, Almaty and Taraz. So. that's why I <strong class="spec">strictly</strong> recomending to you start from <em class="spec">there!</em>
+        <br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mausoleum_of_Khoja_Ahmed_Yasawi_in_Hazrat-e_Turkestan%2C_Kazakhstan.jpg/1920px-Mausoleum_of_Khoja_Ahmed_Yasawi_in_Hazrat-e_Turkestan%2C_Kazakhstan.jpg" width="150">
+        </p>
+    </body>
+</html>
