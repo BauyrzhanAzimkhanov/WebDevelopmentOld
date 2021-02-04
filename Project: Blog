@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            body
+            {
+                background-color: lightgreen;
+                font-size: 15px;
+            }
+            .list
+            {
+                color: orange;
+                font-style: italic;
+            }
+            #chk
+            {
+                color: red;
+                font-family: fantasy, sans-serif;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1 id="up">Bauyrzhan's blog</h1>
+
+        <h3>Contents</h3>
+        <ul class="list">
+            <a id="chk" href="#first"><li>First post!</li></a>
+            <a href="#second"><li>Continuation of learning...</li></a>
+        </ul>
+        
+        <h2 id="first">First post</h2>
+        <h6>2021.02.04</h6>
+        
+        <p>Today I must complete at least half part of my lab work. A week ago my thoughts was fuzzy and I think that there is enough and more time, but was wrong!</p>
+        <ul class="list">What to do
+            <li>Css</li>
+            <li>JS</li>
+        </ul>
+        <h2 id="second">Continuation of learning...</h2>
+        <h6>2021.02.05</h6>
+        
+        <p>I ready to complete and pass this workin time <strong>without</strong> mistakes!</p>
+        <img src="https://www.kasandbox.org/programming-images/avatars/leaf-green.png">
+        
+        <a href="#up"><h4>Go upward.</h4></a>
+    </body>
+</html>
